@@ -1,1 +1,1 @@
-# Резюме  HTML, CSS
+# Резюме  HTML, CSS.
